@@ -1,0 +1,10 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "node test_money.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
